@@ -34,11 +34,11 @@ trading_bot/
 ├── logs/
 │   └── trading_bot.log
 │
-├── cli.py
-├── requirements.txt
-├── README.md
 ├── .env.example
-└── .gitignore
+├── .gitignore
+├── README.md
+├── cli.py
+└── requirements.txt
 ```
 
 ---
